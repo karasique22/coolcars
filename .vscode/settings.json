@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5555,
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "todo-tree.tree.showBadges": false
+}
